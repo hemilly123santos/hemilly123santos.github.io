@@ -9,9 +9,9 @@ div#links {
     color:black;
     padding: 0;
     margin: 0 auto;
-    position: relative;
-    top: 75px;
-    right: 100px;
+    position: absolute;
+    top: 100px;
+    left: 235px;
 }
 
 div#texto {
@@ -19,9 +19,9 @@ div#texto {
     font-size: 20px;
     padding: 0;
     margin: 0 auto;
-    position: relative;
-    top: 150px;
-    right: 175px;
+    position: absolute;
+    top: 185px;
+    left: 235px;
 }
 
 div#textoD {
@@ -29,9 +29,9 @@ div#textoD {
     font-size: 20px;
     padding: 0;
     margin: 0 auto;
-    position: relative;
-    top: -160px;
-    left: 400px;
+    position: absolute;
+    top: 185px;
+    left: 820px;
 }
 
 div#fundo_do_texto_home {
